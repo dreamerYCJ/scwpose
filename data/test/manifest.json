@@ -1,0 +1,1066 @@
+{
+  "records": [
+    {
+      "image": "images/lab1_016.png",
+      "label": "labels/lab1_016.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "943351e8f8e3077df1f9e813eba0f1271bf7a65d38f52b7d04f35a8109a37400",
+      "label_sha256": "62c83caa701c0166c117a731fec4fe9602894103a6d517a3d60e67e089fe50fd"
+    },
+    {
+      "image": "images/lab1_017.png",
+      "label": "labels/lab1_017.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "338d57f68d5d9b3521aede9fb8b6baebdb47b832fb3abe87a8eed11c60e53247",
+      "label_sha256": "b29c68ffef2d7cb779edafb80acdbc2217b5fa17e73843bf2158b2690238b503"
+    },
+    {
+      "image": "images/lab1_018.png",
+      "label": "labels/lab1_018.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "a1461e389b6b7254f330f020e1621359b73c94cfde4ddd9d922fd987a19db349",
+      "label_sha256": "cd07d18233979c5276d90cdecc4e94c0782550dcd83b277b73b7b75f33a9cae1"
+    },
+    {
+      "image": "images/lab1_019.png",
+      "label": "labels/lab1_019.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "62de6adcc97236450842d035c85fb58aa13218d4638bcf5219e435bf4bedf9e4",
+      "label_sha256": "4743a4e1a9e9261146cfff4fc4eaa418049d04a63dda2bd298f433af27e4602d"
+    },
+    {
+      "image": "images/lab1_020.png",
+      "label": "labels/lab1_020.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "34a22c664535d7bfede826632bd3a822f40d78432b974710e4375f01a3cb7876",
+      "label_sha256": "022639fcd01499550b332a8366b112d8f93ad6b3d666ad62b809bcb228e1fb64"
+    },
+    {
+      "image": "images/lab1_031.png",
+      "label": "labels/lab1_031.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "0fa963ddfde75aa5bdde9bceb78432a33099d71ca7f99273e87edf37af79dcab",
+      "label_sha256": "ff158f45c5ded2fe009c9c14a648cc2d4c50c9970c52e9952ebadc0265007d38"
+    },
+    {
+      "image": "images/lab1_032.png",
+      "label": "labels/lab1_032.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "ff1fec97af1967cb67bf8ed030c5aee9b0db10bf67e652eee93f24e05e5db4ed",
+      "label_sha256": "4c64d2df10bfb09f0b8ed06a5db2701016b902ba3860e30a9bac0d39edf65b9b"
+    },
+    {
+      "image": "images/lab1_033.png",
+      "label": "labels/lab1_033.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "b5769b5fe8bedba1728939289be81442f171d02145f6fffd582cebefb6e24990",
+      "label_sha256": "a6ab3b79632dcf56a83adce4900dc5b82e97cf31837edb8c6f68dc426be96a04"
+    },
+    {
+      "image": "images/lab1_034.png",
+      "label": "labels/lab1_034.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "eeca75e33836bf266f4c6c1e23f224c45e147f7cf018dbac5eb43cda4d196f52",
+      "label_sha256": "990030b97fc5a8300c2fa1901bf50877a7a4348794c3010e522ca51ac7d74451"
+    },
+    {
+      "image": "images/lab1_035.png",
+      "label": "labels/lab1_035.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "2cd305e52622c3baba481c301877ff347c57ff49d802ebc7328cebca5c454292",
+      "label_sha256": "cdd1265d8e6bb71f169c87b59b824b41cde39e48ac45b4358765a3e7518f87e5"
+    },
+    {
+      "image": "images/lab1_097.png",
+      "label": "labels/lab1_097.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "5775bb39eab6a906f9694ed7d38aae1d0723495ba576ba9ee6ce018586a03366",
+      "label_sha256": "5643a5e3409ae44ae4765a9d3ac381b450aa940d7593db168cb10d72e47263ab"
+    },
+    {
+      "image": "images/lab1_098.png",
+      "label": "labels/lab1_098.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "62685893c05414faf97ae184a1d6ece0a794f9dd5936bf16bd505133e4ff6fff",
+      "label_sha256": "56b5952dea90f019f1d371000892648d080187d20106eb6d0878c75a5332846e"
+    },
+    {
+      "image": "images/lab1_099.png",
+      "label": "labels/lab1_099.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "0ba265da3b7e38baa1e0b4074ea7270a197a82c595b457bd5651696591580625",
+      "label_sha256": "13db5f8aa59feb5967c3c459cd1f0b32be72abf528a00aa070a22db88c7666b8"
+    },
+    {
+      "image": "images/lab1_100.png",
+      "label": "labels/lab1_100.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "1a53c8b11429c100c571722b9babde61cdd680a557fc032982d1d5de88f4468b",
+      "label_sha256": "416b31461708a3178a80616b4d67e42ca6a9311d93fff5c3234b61dfa23fec65"
+    },
+    {
+      "image": "images/lab1_101.png",
+      "label": "labels/lab1_101.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "eeba98b60028f844c9aec37de50df0ae98281721a66f9db446fb93c5e9bf854e",
+      "label_sha256": "6488fbcae33d13c939b1b45e4816f8928e384ad299ff223932f8b2414b78db73"
+    },
+    {
+      "image": "images/lab1_108.png",
+      "label": "labels/lab1_108.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "e24d3fddba0bfa392c55f2f4e55b88c31fa5052c2499d3cddae7b32a61cb881c",
+      "label_sha256": "ec4a37f8812bc88e7479c30ea0f0ad64c28fb0966179e45ecc20c5efcfed309d"
+    },
+    {
+      "image": "images/lab1_109.png",
+      "label": "labels/lab1_109.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "a97925e14f75a76613c9e4c67f941936514e0b914a9ee6163c5e78d6fc02a7ba",
+      "label_sha256": "ec70c56cfcd9cb0605e3dcf7e19c5a81cba421b81f7f7c3b4ec7420e3d0ba6fa"
+    },
+    {
+      "image": "images/lab1_110.png",
+      "label": "labels/lab1_110.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "f74fd0df8b3a80103765b6b9f9c1dc78c8f2101dd393eb1ff43fbdfe6f93ff4e",
+      "label_sha256": "60ec72cfd428bc8906414e74a6f17ce61f266ad1a9df1e703eea70ed1f39bb18"
+    },
+    {
+      "image": "images/lab1_111.png",
+      "label": "labels/lab1_111.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "007239d6b50ce528698c3e8b8c651a83eaa162af9712497b3a519d034734760f",
+      "label_sha256": "9b8181d0a0e4d7fe0ddd7ee5dbe653bac4c99ed74c9984e3d2770c02bc586dbe"
+    },
+    {
+      "image": "images/lab1_112.png",
+      "label": "labels/lab1_112.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "b06453a8b96038f570b73fda7e4cfb60a44587721752e0fb39515eecf6449062",
+      "label_sha256": "56fff2ae775523863c292d8896612def9fa79992e70fbc5060702dac284985c2"
+    },
+    {
+      "image": "images/lab1_124.png",
+      "label": "labels/lab1_124.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "1a14282b1a0148eef715416d8ee6a5fb337e9666c523f231397856b225af3bea",
+      "label_sha256": "8a7db3e43049eb4414a9b578ac157b4c3d2c0b8e299d1f396860b7d6d61dd138"
+    },
+    {
+      "image": "images/lab1_125.png",
+      "label": "labels/lab1_125.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "0a3003a115f4c56d4cc344b42b5ab76487af743245eb15b1c3b66841ae3433c0",
+      "label_sha256": "1e7e303130f70cce4a01f476a71bf7e7581e886b361f659f6725fd88742a2e11"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150455_620734_775b0aab.png",
+      "label": "labels/lab2_walnut_20260916_150455_620734_775b0aab.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 4,
+      "image_sha256": "7733090a9d002c19360e2b84deaa26a8ef7f964bb829167195358ac20d2c05e4",
+      "label_sha256": "2920cfc6f3380fe63250c321383673040cd7346465f255e49d180d78e28ca768"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150507_304176_5383aad0.png",
+      "label": "labels/lab2_walnut_20260916_150507_304176_5383aad0.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 4,
+      "image_sha256": "b1a6592a77d04ddf7701e0139399f6931ff9b221a4a70e8c3ac3a57c13aba761",
+      "label_sha256": "fc58f91a79496a3914a65342f2123a354fd83eda2acf8c0207a99fdbe3097325"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150518_350795_b8fc26b7.png",
+      "label": "labels/lab2_walnut_20260916_150518_350795_b8fc26b7.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 4,
+      "image_sha256": "f69479c6490e0457fc621778c5954684148e93807ecbf382d83d4dcc800ce3bc",
+      "label_sha256": "d861a60929a7a698ed97ccfda26ec5f19a214a54e75d75fa3ab0d9f9f139d6e6"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150536_290071_d93af01e.png",
+      "label": "labels/lab2_walnut_20260916_150536_290071_d93af01e.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 4,
+      "image_sha256": "bb98138887be11c4333a52699c869bfa1bba9f95166f30daded349ed6964c65a",
+      "label_sha256": "3be8144d30c8daa0f7b1e4de798abce1bc92ae985c590cae0f8697a964b3528c"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150549_268303_c1c39ede.png",
+      "label": "labels/lab2_walnut_20260916_150549_268303_c1c39ede.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 4,
+      "image_sha256": "1d95296d28e9702dab573245c48298daebc98033b965529bf621b26b1e28c418",
+      "label_sha256": "29eb734808915c2ef502c63a175d360eafb85cf083ba427f22ff06050d54b3e0"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150823_018931_85590ddf.png",
+      "label": "labels/lab2_walnut_20260916_150823_018931_85590ddf.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 3,
+      "image_sha256": "d21bd46b1720e18d23c7fb7085d0710b77680e49f3a5bee86ed787392e05483f",
+      "label_sha256": "cd22915725618f47835c4d36f1bb71c36300cd5c2e8a69042b2777605a3fbdc0"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150829_706922_f13bf6b6.png",
+      "label": "labels/lab2_walnut_20260916_150829_706922_f13bf6b6.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 3,
+      "image_sha256": "e4370bc16a9cfff6e3570c67c8c22386ab62271c0de7aca5a3629be4cff1cd00",
+      "label_sha256": "a6015190515b6896e0c1ec8ff0e17b2fa4a9b9d7a9f45708406402bf1fcf0154"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150840_975262_8c07a6fb.png",
+      "label": "labels/lab2_walnut_20260916_150840_975262_8c07a6fb.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 3,
+      "image_sha256": "ff2d848559a699cb78fd7fdd387526bc08a076b38932c49165b8db5e4296b061",
+      "label_sha256": "9e8a4c3aa1b94195dc67260650062a0d274f4c7f1da3d0b30970f2b407722556"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150856_058627_09651233.png",
+      "label": "labels/lab2_walnut_20260916_150856_058627_09651233.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 3,
+      "image_sha256": "9eb71a9bec865be34626ed9371cffea076f8202ff62e8187177738297988ab8b",
+      "label_sha256": "db02ec4705790c7eb733d55262498b69619b6d6a770e425f280e43d7095dd23c"
+    },
+    {
+      "image": "images/lab2_walnut_20260916_150900_106555_b8434e85.png",
+      "label": "labels/lab2_walnut_20260916_150900_106555_b8434e85.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 3,
+      "image_sha256": "e64cc338f1783762ed0df8a5e6529cc10ae7820fae95ad3f9f3242ecbf79704e",
+      "label_sha256": "2a13dfdd15ac0fee178ea1d5fdf984dbf09f7d8595d76efb56763d515aca2547"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_141807_908092_f11d187d.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_141807_908092_f11d187d.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "1e0a7e02c7796fe2be2f0e4bb5b48a4fd93aa12c9d9f11b511f9ad69964d4e9d",
+      "label_sha256": "cea37ea9a48d9dff671c4fe5c3b1c681700007944b15c16653d206e446747d76"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_141840_816285_6b48af53.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_141840_816285_6b48af53.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "93f55bfa60a09cf601fc71b9e537329e15418ff3148711f393b7fbabed6a574c",
+      "label_sha256": "5b43b8b29c1a771fc5998e32a929120618593be0138b33a2feba35258ffd8dcb"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142021_340338_73a4d6bd.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142021_340338_73a4d6bd.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "4c525993a39b92a1f616838de2ad819a57c25492c5c6bbe4fbaec8ce9ac92f5f",
+      "label_sha256": "199361ccdccaec2b0a212e4be585e4c29284f5e05a1a7591bfdcc2827a1f4fd4"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142056_287572_58ab2164.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142056_287572_58ab2164.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "18b4b84c01338e5475cff909aaa76557dfd97c77b0e39ac0821d814a9d1096a0",
+      "label_sha256": "99b265cb22c0062af2883cea4bb8043434cd303b04d659b51d088285949c29d2"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142154_073153_5d04c730.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142154_073153_5d04c730.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "0eeb296e2f5fc15ef7a95222f0fbc9611eb9cfd9bd6734495be2a840cfdec726",
+      "label_sha256": "425e6abd7fd801ad69be17c6cb4f3f6aa24ffdd922d2b14f0128405c12403157"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142406_170458_a80367ac.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142406_170458_a80367ac.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "e04f9603f0a1cc8016ff27d5e5801e911d3e9c0437fd080bd4c5a7182473ddc8",
+      "label_sha256": "6128a2ad0cfc366cfbf456a1c6eec4258a49ea072215d7536c31f758ce328c22"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142412_373224_9bfdec18.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142412_373224_9bfdec18.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "23f39aadc817db2ede6c644638d83fdc71e785834d2785be667c1ac40939a5cb",
+      "label_sha256": "5aafc9e36407dce57704be05aae2a76c0ac7e731904b018c7fd81e46b749aef9"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142600_587419_e7128fd9.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142600_587419_e7128fd9.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "cca19cfa0997653180dfe5b91972a0087c90b55a15a0039b558f3375ca232232",
+      "label_sha256": "b4c1f06483cb13eb1cdebca7d7bcb7b8d86dcddc4d928d33917128ef94f2fb89"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142649_615931_dc635694.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142649_615931_dc635694.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "2236fd076427752a92dc55c1d08919ca6d32017fcb613c278bb5ee2ee6952e01",
+      "label_sha256": "fbfcbc0b432cd60516b2ddee2efe8beffe236bead9d23339daf73f70c4144eb7"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142659_270219_e88b240f.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142659_270219_e88b240f.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "8355fccfd70706d510a9d2cda5adceb7e4a55ec79ece26afd88ab8113092c29f",
+      "label_sha256": "b7e657d48951f0b5de84acfb11b0014fbf6c3de8a25680692122fbf1a0d5422f"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142708_321960_269d6af5.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142708_321960_269d6af5.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 2,
+      "image_sha256": "ea61458c9c0999fe80c9d266b7293e70d574f96a56844326e2155c91673d0de6",
+      "label_sha256": "4a23ae0c3c8d8166031b724d84058c7992ad6ea086f6c9c96ce1a67887d5f618"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_142905_121125_8ba2ed26.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_142905_121125_8ba2ed26.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "0ad9ec61889bbe40fa6d78e845e1a47e7bfb32935459ddba880725fa76b98a8d",
+      "label_sha256": "6fc88956917f433099494f8a701fa6b15305f1ec1e5de410c51140cf22a6ab5e"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_143019_194739_125323e8.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_143019_194739_125323e8.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 2,
+      "image_sha256": "c709dba2f09c5addaa82725f07cbd7a4ca7c51da205363f6889c946baefe5dc6",
+      "label_sha256": "8d105eb8881947f20c29fe209569df864bc05a84315215d96c4622649dcd9bc5"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_143024_272321_f81ec6a9.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_143024_272321_f81ec6a9.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 2,
+      "image_sha256": "08edacebb8bfe4cbc3a9636ba2a30ef5ddd0e448da68973826b78a4e255a8ef1",
+      "label_sha256": "bfd82edf93752036a30bc59c39d90136ff1ae160d29d0af4c1e3655c0c7d653d"
+    },
+    {
+      "image": "images/new19_walnuts1_walnut_20261019_143045_611228_dd417050.png",
+      "label": "labels/new19_walnuts1_walnut_20261019_143045_611228_dd417050.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "a9c0f13afeb60561196ec0764c28598e288b11a1ac3bf8e33332b8d887daa88b",
+      "label_sha256": "11de7b0c84d34db4e9637fff2ca8dcab068f876b1b6e8b179f05ef0fc9250fa6"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143049_765985_4c1fff10.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143049_765985_4c1fff10.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "84e6726bca90b446448a07ad57bc2b424062ab7512496da3c3df33257a16e3be",
+      "label_sha256": "c45db807e20e034ca2b0ecd37c077eea5ea6ddf7c49d775e6325e091929a9ac4"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143101_455566_96aaa207.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143101_455566_96aaa207.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "7a36f38e2488d28d374a48494736ba109b21dab08e9f34f79f6655fe732d2994",
+      "label_sha256": "5e41ab080399b674df4775911692c7b924078b60d2202162634945ef2d0ffdd6"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143202_950209_f79f6c51.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143202_950209_f79f6c51.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "6191d1184b2cd2fdc12c24d156357f0f6e45c889c1cfa14ef8a5cad40710b0aa",
+      "label_sha256": "162aae99ea634eecfde2ecc9bddd78ff5dc0ccd5545c7e2c01af52abc214d29e"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143214_896782_d1a931b6.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143214_896782_d1a931b6.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "e2c272ae0c1b33cbf0acabc5a66269f0bb57e8cadd55e8ecb4fb414f7bfd584c",
+      "label_sha256": "080ac063ef29365005953a3c6e4c1022abe180d00e6cfd6c59386b0a14685d9c"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143304_357497_3fbfbcfc.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143304_357497_3fbfbcfc.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "afe22013711ce64591156f643dfb4e919e050307832df2d3becc94b07938828d",
+      "label_sha256": "96dda61157c1e572a942ff317f1491edc36167b97c6d363916e0579ed5d88b52"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143337_804504_277c7228.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143337_804504_277c7228.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "d0f9e559cf5b94782d5e50ae44ba581dd43cd8b45607fa7c4fbfcaf1035ded33",
+      "label_sha256": "ea4e2b0316a33ccd052a5e834334a4d354b129806b5cd513b1bf307d36b5a38e"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143350_465738_d83828d7.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143350_465738_d83828d7.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "d48ad8f14e1a88b135e1a5ebfbe63e402fc06a7ed627373d1f804676a0d6bac4",
+      "label_sha256": "b7f8b07ee4f4542a41a72fb16f671c7b25c725f8a71604e6a77158604b22c0b2"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143407_206262_dee14642.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143407_206262_dee14642.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "c89199e2895414af03f6045b14fd457d45a39aa8315cf0ccf3b4611bde87d44a",
+      "label_sha256": "49f56ec7e42d58955f831b41407461596c91aae55cf81cdef978d4d9b6fff58c"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143419_754305_7603c1d8.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143419_754305_7603c1d8.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 2,
+      "image_sha256": "dd8913e9cadf97283297f2afde4aceffaf57ea6523715b660394e6097cbe286d",
+      "label_sha256": "df5b3c399800d71b02da2b4c2cd6adc6805ff4f06ba9b0edc552eeb3c4a086f7"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143549_411551_1d850f83.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143549_411551_1d850f83.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "01cef843e1cff79d7bc49032ad97a095199dec2f8f2b5095c5728ee828c03a8e",
+      "label_sha256": "75f54a789b6fba9ef43b4dc4aa0231d0f38ae19e171f2f1664a2645f3cc7bc87"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143651_039616_19820244.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143651_039616_19820244.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 2,
+      "image_sha256": "73f2ef3c9e6bb283f0f44c2500005e269e6ba2f9be948b714a4424f9463feb7d",
+      "label_sha256": "f0609535c21fe224d79144a1d6f08456d0465fb2d2308b0de97baba7317c7763"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143747_228799_71798b72.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143747_228799_71798b72.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "2e8a4c5cd77b7cc755890a4ecd5e06b9a3806f9790574ca3695c904a3c766b2c",
+      "label_sha256": "4b7dcdf5417fc6cdfa22efb1fbdab85be4467a24d4681b785092e3f14d7f53f3"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143947_131458_c3aa1c8e.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143947_131458_c3aa1c8e.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "65fd79fc9bf894a6c0fe9dd81ea5dd5f3a3cd4dacf8195ebeb31de209f151bc7",
+      "label_sha256": "7be7a06eff201fcd8a9e9f3c438176c8d4ddea77a909c20a1ddc9a5960e163b4"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_143950_523794_151dca79.png",
+      "label": "labels/new19_walnuts_walnut_20261019_143950_523794_151dca79.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "2ff4e3668ebaede05de69f7e00bf110cb298e91120cd3679ecdc88a7f33b0a6b",
+      "label_sha256": "fe945297c174a0cfecf1cd03265db80b626b91990d284767f62d5bf3d694dd8d"
+    },
+    {
+      "image": "images/new19_walnuts_walnut_20261019_144008_111540_d5646027.png",
+      "label": "labels/new19_walnuts_walnut_20261019_144008_111540_d5646027.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "3b49b2a600ee795ac03d2ee8e28ded235fbee2cc76f93b259afd2b7d8924633a",
+      "label_sha256": "b33753ad10e0fcbd0a946022b4426cb63fe2eebd60004bfde79758a4c08179d0"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175451_620593_f8d669c4.png",
+      "label": "labels/new20_walnut_20261020_175451_620593_f8d669c4.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "6b2dbbb9d70ec6fdcf6949bfd622d52021403d395e00c92428539ed1b51ba3a2",
+      "label_sha256": "3b52343ba4ee5ea3151b372a69784ef79fd004e178ac4013fdb7b717af9317aa"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175458_266968_23cf33c0.png",
+      "label": "labels/new20_walnut_20261020_175458_266968_23cf33c0.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "befa54271bcc8fdcd339b1470384589843a6fe8142dcde20a477bef04c83f1ce",
+      "label_sha256": "68ae140c726eb568377dc53133c57b8e3273d8b48e89f6440d65bcf3c6961efa"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175502_418600_03d58f8b.png",
+      "label": "labels/new20_walnut_20261020_175502_418600_03d58f8b.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "8e2a8e37d2c5709d5106e1790ea3bd2842f0e5a66f65fc728a1396b19f2a7314",
+      "label_sha256": "e54da03c305526bfb1fa2e3bd3a62c1967705feebd088d6eeda6c23b73b5778b"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175506_033519_b8e6f033.png",
+      "label": "labels/new20_walnut_20261020_175506_033519_b8e6f033.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "c722b3d11158a2a6a73e21fc13379919c23cf4dcb500abc3bdd2efe989b534ba",
+      "label_sha256": "efd42b214432dd433b34e1fe089497d781e840ea7b414c775f5f05ba62d623ab"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175509_417203_b6864847.png",
+      "label": "labels/new20_walnut_20261020_175509_417203_b6864847.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "bfb48fdc03c17aa0baff43d0d34faee2a07a1b23be788191fc785dc37064ff5f",
+      "label_sha256": "54982ee55ba0e2bd68cab909dcd1d946e9911bf5244fbc45d89d12abe1175c17"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175513_038492_570c7440.png",
+      "label": "labels/new20_walnut_20261020_175513_038492_570c7440.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "fa3c93601b8cdfabbd511bd100c3acc2d67d3b7bf78d655144b7f7f97e97dfa1",
+      "label_sha256": "93ff8c21b8c5f3482d00d4edbb09d05bc6b34dcc5dc23558e40212ac867407e4"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175519_098581_7343aab8.png",
+      "label": "labels/new20_walnut_20261020_175519_098581_7343aab8.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "75fad4d8f189f34a70c1db7f6e2e5df0001381e49f031a200b2471824929199c",
+      "label_sha256": "b1482aa5b249344218cb3112963262cabc00b2cf9a0815d74bde742ce881ea2f"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175522_605123_23f023ff.png",
+      "label": "labels/new20_walnut_20261020_175522_605123_23f023ff.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "8af6e0c9309ddb04e11260d3f560cdceac3090a4737f2593b896d46b312efe9f",
+      "label_sha256": "c9f9be04a3eb63e78f5f48a99cc96e58cfe4649e6367c26f6c5950083f74a826"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175526_013911_0bc37705.png",
+      "label": "labels/new20_walnut_20261020_175526_013911_0bc37705.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "36c27e74b33d232aea0dc1e8a6f305782832318adbb8a2bba914516179a8d8f5",
+      "label_sha256": "caf5cd80f9a5503021b1bf7a17a7c5c21b0c79bcd0ef0c60df76a03e1204ec1b"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175529_248346_8f2515ee.png",
+      "label": "labels/new20_walnut_20261020_175529_248346_8f2515ee.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "ede76f8b1dbfeafd037c34384d2db5f8ec5e162c7dac590c9cce64a9d45fe824",
+      "label_sha256": "b9c1ba07bd585b0d2c6b3a2f299d96afd6f0b28003d5f042ba2f50e5d993389b"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175538_946270_25e276cf.png",
+      "label": "labels/new20_walnut_20261020_175538_946270_25e276cf.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "07bc1554f080a221cbeb446ea8d003caf0c927f6b0a4127ec8a962e5aaaf0663",
+      "label_sha256": "6702703f65397d975ebdf8c6920c50c9f425cfbcd379a408f9f32cda81257ca2"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175543_253248_0daf1c8d.png",
+      "label": "labels/new20_walnut_20261020_175543_253248_0daf1c8d.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "a893f5134edcf43c02a2bbd312ce1f8632887192d516a9f8f075e82b4fd3a43a",
+      "label_sha256": "bf550d394eb34da012c0ff93a770f13e7ddd6313533ecd0637d641a5c7c6a4d5"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175547_120386_6559c379.png",
+      "label": "labels/new20_walnut_20261020_175547_120386_6559c379.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "cf9c00dc2e952efa05e5660792dad49b62be1f3ec52f7b6d93d87b857fb18098",
+      "label_sha256": "7040c506da6a3fea1ab25c175b8316a9897c4205edad3ad9f76e750c485ab821"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175550_888721_9bb9aedd.png",
+      "label": "labels/new20_walnut_20261020_175550_888721_9bb9aedd.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "8a1227596a3a390b191039aae0b5f2141564a7a94a25f7d04f32c7bbcf8d5283",
+      "label_sha256": "e9af43b00429f3144843376938d1dc889bc6bf545dbb48a6e9de2d3fe9710243"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175554_854762_1ca35252.png",
+      "label": "labels/new20_walnut_20261020_175554_854762_1ca35252.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "b4f5c5a2be3b1e57ba3e489536e688efb50900af83b93eebab51789fdfab9c4e",
+      "label_sha256": "11206f8c74f6c2a5ea22520350b8cbd73dfb56ba8b8d8014e194d1b6e2eea692"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175601_436985_4ded9668.png",
+      "label": "labels/new20_walnut_20261020_175601_436985_4ded9668.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "42d5038021209183d36f0cdb3905e889b951bdab1b58e4342f87e794eaaab527",
+      "label_sha256": "9217be8a070e3e7faf5fd01e27926e035ad99c32691011a5264ae4f7ec5adb34"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175606_355342_996eb313.png",
+      "label": "labels/new20_walnut_20261020_175606_355342_996eb313.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "cd5b0c40ad3717c69529a5dc3d895526387ce1c5be09c063dff2333937148065",
+      "label_sha256": "e9b328af8ebd681ee83b32d6a8e194150b336e04a72e23bfb8b227c1d0a9ad8b"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175611_262671_23779da7.png",
+      "label": "labels/new20_walnut_20261020_175611_262671_23779da7.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "9afbf732cd2c726b9c5bfd79bb230ff0dff1b1cb540e2df5da43ca6719943567",
+      "label_sha256": "44833bab299dcd0ddb24083da39a6efcbcd204b0f9256f6b87d7f735fe1fae6d"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175614_893824_c22fff1a.png",
+      "label": "labels/new20_walnut_20261020_175614_893824_c22fff1a.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "a00a7cf45da59d20b89081d5bb5706a6032a41c1479ed80e971312150d34ab9c",
+      "label_sha256": "e0cf1ded3ec963a856bae404244e6600aa17e12acae44aaddb2da1a602af7508"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175627_675770_42ee3a27.png",
+      "label": "labels/new20_walnut_20261020_175627_675770_42ee3a27.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "dbf270dda1f86d46f04903b26e0c2c76f975e7032e85a46e84e1b3876a59dbff",
+      "label_sha256": "d6bef9883473cdf563f91ca15aa3caf1c575a182b9f5984e3a72b2db2aaf24b8"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175632_055240_d40295ec.png",
+      "label": "labels/new20_walnut_20261020_175632_055240_d40295ec.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "a1e4eb7119afa858ede419591093382f1495e132b0c7af7ee7fce2822cfc3a76",
+      "label_sha256": "9e09e555da08ea89f14c1251a7138099489bff9d8838793090da506ada2f04bd"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175636_370684_819e0cb5.png",
+      "label": "labels/new20_walnut_20261020_175636_370684_819e0cb5.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "4745d7e315fc53c73a5ea17050be0a232e0cc98953234c3abcf5cb5da93b00eb",
+      "label_sha256": "d8db91419865d777687ea3be49047ccbc266175a0555bb8a58bacf48d3633307"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175642_951121_fe9b659e.png",
+      "label": "labels/new20_walnut_20261020_175642_951121_fe9b659e.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "17b5ff29d720550266ac05371d9c1f06c18dc7e6afb730a3707772d742d927a6",
+      "label_sha256": "9b1f631aa70adaf54e8fad997c8c10d6e0a21ea3bea3b798787fa0cc8a7aa36d"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175649_273100_b0eeb1cb.png",
+      "label": "labels/new20_walnut_20261020_175649_273100_b0eeb1cb.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "d8b5d338b7bd07e345599da232d7c0dbdd36454652cecb6446084b703a7564e5",
+      "label_sha256": "874e96c404dc3d8a0ea2070ff7e404b9e40ba475ce92bb6f8775982965687da8"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175653_193365_205242fe.png",
+      "label": "labels/new20_walnut_20261020_175653_193365_205242fe.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "04e747c9be5469ab01f7c08598ebb872ba1381b988831ffaa44e1a13615b8e2c",
+      "label_sha256": "02effab9262a38d77fce34ee9d9e3e8c3a7f6548a94f18dc3dd6ce3646e552bf"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175657_579574_33b6457f.png",
+      "label": "labels/new20_walnut_20261020_175657_579574_33b6457f.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "9ab617f569b25a6d91598951622d3f9d6eac095132dcb05b2b838bd02f934690",
+      "label_sha256": "398f9af4daf1646e884d95dd7433da4d780d29b5f671e99446ef2ab330a5deae"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175700_952262_0701abe9.png",
+      "label": "labels/new20_walnut_20261020_175700_952262_0701abe9.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "386fb88c4e764a3dc1fad56b891462672dcd32d7475611e1101532162ac8fee2",
+      "label_sha256": "aa4a482012d108fde78434647095ff4baf84a258358d578c905cf118411beaa7"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175707_357110_4bf43a31.png",
+      "label": "labels/new20_walnut_20261020_175707_357110_4bf43a31.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "e67fd71be395e01b7744b01848d482de2190cc0f08373309e2e37318ca78f0ec",
+      "label_sha256": "2fc2436f49be3889e50924af889c0320ee87e2699cdcb2b16965b225ff94c2bd"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175711_030408_7a048811.png",
+      "label": "labels/new20_walnut_20261020_175711_030408_7a048811.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "d7bb979ce74ba2f85018a77a43ee46ad5b8043d78955945127704c10d95e27bc",
+      "label_sha256": "53ade43512c264fc1ba386800be898881d98a35199096b168dd3b0dbcc410951"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175714_350518_95e474c6.png",
+      "label": "labels/new20_walnut_20261020_175714_350518_95e474c6.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "d8df39f9de7e3fb730630e14c02bb7b32708c558a833e0dfec33a74e8aef031a",
+      "label_sha256": "03c03e40c4182a30e5baa38aa747eb63201706a632899542a940e458d62ecdcc"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175723_646972_95c464b4.png",
+      "label": "labels/new20_walnut_20261020_175723_646972_95c464b4.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "73ef8a160ca128983b491333eca9b1df595da616269a1de480a60cfb05643649",
+      "label_sha256": "d103bc703bb3aa27a5bf4bce889c09e46881fef4d2696cac975b7541be337a36"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175727_373935_299661b3.png",
+      "label": "labels/new20_walnut_20261020_175727_373935_299661b3.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "464bfb9ae608a3aaacf322eeea57d14bf4564cdcd018a9dedde818d22891dea3",
+      "label_sha256": "3dec75dccd9b93c98c87ec6787266dc712e105c6f6d2a5c336c8525fc96916cd"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175730_588526_b0b59b1b.png",
+      "label": "labels/new20_walnut_20261020_175730_588526_b0b59b1b.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "e3c0871def5cd62c5daeee3c9e786d399889e99d19bf52054ea069d3885f58f6",
+      "label_sha256": "ff1086b9e011768cdf65e7fd20465ad3e9782ddcc973cb831075b7937513fe76"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175737_520503_07a2283a.png",
+      "label": "labels/new20_walnut_20261020_175737_520503_07a2283a.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "5dd58125205c52909a47dcea9482a6b8f507504f6943cf0e58db6972231d29cb",
+      "label_sha256": "27ee9320a8b51be66bb0b9475ac27ba016a6170e4e45b5bc8a494102835f905b"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175741_624001_fc3cbf2a.png",
+      "label": "labels/new20_walnut_20261020_175741_624001_fc3cbf2a.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "213d735c3bd4e2729e6f74f08036df46354d7ec0219cffad6b42765525b60cd7",
+      "label_sha256": "3a43a765bdaa016efaaeda46918e240f540210e0209b9cdfd3a378b65e1323fc"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175749_346190_2cd9a9c7.png",
+      "label": "labels/new20_walnut_20261020_175749_346190_2cd9a9c7.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "ce3a697d26674dea9ff58c47e093edc64f6e99cf67ceae0b955f53409cd49645",
+      "label_sha256": "b55b7e9af00e9d9619dc969bec1e5612c4f782fe31d9f9a43360579172a94ce9"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175759_993547_f5734ac7.png",
+      "label": "labels/new20_walnut_20261020_175759_993547_f5734ac7.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "70bdaf2b029e82c1d6fb31de085c674d39820f4157d97cb77075bd06fffbf0d0",
+      "label_sha256": "38bcbb3eb6e4fe87c5a4c481ae595d78776f9d615f9310700570ab3635895fcd"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175803_186847_e9fb5aa6.png",
+      "label": "labels/new20_walnut_20261020_175803_186847_e9fb5aa6.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "fb938fa5c47d2e7eb105183e18f7ae61776cb54035bb050fa6e9908d1ac2d008",
+      "label_sha256": "b241112ff9172ade871e79dbb1d1e48b80e5765a3e88efeda022f693f82f861e"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175807_222892_e05a0b31.png",
+      "label": "labels/new20_walnut_20261020_175807_222892_e05a0b31.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "6a07aec80624014bf7ef3f70c7461ac88c35ac7e80fcc955a0a45237a15d3651",
+      "label_sha256": "acfb4a4e1e6b62d1879cf2a90b67a3b7e58811260a96ea2957f63a84c5c5312e"
+    },
+    {
+      "image": "images/new20_walnut_20261020_175812_935512_cebb5916.png",
+      "label": "labels/new20_walnut_20261020_175812_935512_cebb5916.txt",
+      "width": 810,
+      "height": 540,
+      "instance_count": 1,
+      "image_sha256": "b6a58224f24bb9709322762482e16259a969af1c4869087bc275fa82a54f9ef3",
+      "label_sha256": "9060495bc1f8a363a33cb7e883eb4bb543b97786da23b2f1fc4dc4ab62e41a05"
+    },
+    {
+      "image": "images/old_ind_industrial_005.png",
+      "label": "labels/old_ind_industrial_005.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 5,
+      "image_sha256": "02180867b9884505f5dacbb9fb16af2d6eca766c902532e1fa6b4796cc44d945",
+      "label_sha256": "3c7bc6f7fbcf5b64ee4dfc9d12ffec2d06fd7b475e1a031fa0bd8dbcaf49e924"
+    },
+    {
+      "image": "images/old_ind_industrial_009.png",
+      "label": "labels/old_ind_industrial_009.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "00e3ca8626e7c595784221f5d52525332fe4ddbfd5157546c296854807af8a81",
+      "label_sha256": "8b895a1951c36d3f82ccc4d0245edd19ef75fb71e4c5137ae19f96a3b9a8cc46"
+    },
+    {
+      "image": "images/old_ind_industrial_010.png",
+      "label": "labels/old_ind_industrial_010.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "7ac269266c0a4aa83a1206f312a12559091441b85dbf77db7f76bdc8bb887250",
+      "label_sha256": "c1a8e7f322f95a82529dfa5026d79fd3faeafd080a292ffd0b9f9dd8271ac58c"
+    },
+    {
+      "image": "images/old_ind_industrial_013.png",
+      "label": "labels/old_ind_industrial_013.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "42c7227a7c3ae06a034a1fb370ea855eadba63eeba1744f61a6ed20e3d7ea1f7",
+      "label_sha256": "0523936de384be2804e940088e743f12e1a87f139b444d5d56169d449d767a55"
+    },
+    {
+      "image": "images/old_ind_industrial_027.png",
+      "label": "labels/old_ind_industrial_027.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "e52270803f9a8f7e378675fd8882ca83364b60d8e78b58821d3d53f800bb0bc7",
+      "label_sha256": "0052630ea4416dfe3837b68b23c02eaf51db949c1bb9657f23660f8f64dce965"
+    },
+    {
+      "image": "images/old_ind_industrial_034.png",
+      "label": "labels/old_ind_industrial_034.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 1,
+      "image_sha256": "1eb83aca00126379ab16402b2dce1c9114864063b1f0cccfab1a133c3dc8a751",
+      "label_sha256": "b57bb4b1cedeb5376e95440639115e72db4c6987609bc3fd062306851085bbcb"
+    },
+    {
+      "image": "images/old_ind_industrial_042.png",
+      "label": "labels/old_ind_industrial_042.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 2,
+      "image_sha256": "d2d9c3392915f88bb5a6621e464da80db13c6ec393350b66acca755102dfcc5e",
+      "label_sha256": "1901bc2b4ecb19e9d25c5181e8ac45d74c5eaf55f8e4b646b2bfa8eddb6ecf23"
+    },
+    {
+      "image": "images/old_ind_industrial_043.png",
+      "label": "labels/old_ind_industrial_043.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "9c2aed1433a79fdc03e1c12a303a1a80f533495cd7bf1b8ac63bb070c20738dc",
+      "label_sha256": "ac25855836f652ead87330494d390c3855aab2494a4b4b67ddb59819ae9e3306"
+    },
+    {
+      "image": "images/old_ind_industrial_054.png",
+      "label": "labels/old_ind_industrial_054.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 1,
+      "image_sha256": "0fce9d2dd3497d9f64f2a3befa6ea4bc00ff86253f0bcff8a2c78ffa5df232b4",
+      "label_sha256": "ec78d1fa87f88df6e3dcf19e5e2750772e47fb026d6e351ea6e07350e0506e1f"
+    },
+    {
+      "image": "images/old_ind_industrial_060.png",
+      "label": "labels/old_ind_industrial_060.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "b3c37b5c90e85bbb9f93ccce655456867631df549f882a78ae979f90fb091b36",
+      "label_sha256": "72d292c1fa4255df837f76db9edd43341125eeff85e7023011cbb61cfdbb21f5"
+    },
+    {
+      "image": "images/old_ind_industrial_069.png",
+      "label": "labels/old_ind_industrial_069.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "e7da6038b5be0d187d41dfb040808799c0ab007d3cc59e40e99491a25bcbda30",
+      "label_sha256": "7ce25264627e844f7968735542201f825581ab38ca2222d2bf96b3b3038e7e6f"
+    },
+    {
+      "image": "images/old_ind_industrial_080.png",
+      "label": "labels/old_ind_industrial_080.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "5933439adc9371855f929fa6f4858ac2b070d244e949e021e3e49700925c262f",
+      "label_sha256": "15f93d1a20b592199bffec434ec4adbb5fb4358cd3405789cbc58f6c065e27fc"
+    },
+    {
+      "image": "images/old_ind_industrial_092.png",
+      "label": "labels/old_ind_industrial_092.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "c7f92df9b804e1277c6a00c9befe74ea13f657454483d26fc7c96a8fc52dbf18",
+      "label_sha256": "f3414a375cb93f0d38fe55f7e343540ffb53da0bef7200d2cd82d7eb08cf79fd"
+    },
+    {
+      "image": "images/old_ind_industrial_094.png",
+      "label": "labels/old_ind_industrial_094.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "77d67e96a10a5d686f0de697153dad880d61d29466dc14a81a42a2f4cd506b78",
+      "label_sha256": "5c61e8f87ee7a31f96526ed4f08808560d0620e8568fd4faeb7bd9fd55cfa536"
+    },
+    {
+      "image": "images/old_ind_industrial_095.png",
+      "label": "labels/old_ind_industrial_095.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 4,
+      "image_sha256": "9f6c3b94aacb961ce97b343932800984456f431a8d664d2965fdc7f298fae6b8",
+      "label_sha256": "26efe594eca40ac76b5b90a63aa78bcee2cd785c47949b8830ca1ef711b4b033"
+    },
+    {
+      "image": "images/old_ind_industrial_104.png",
+      "label": "labels/old_ind_industrial_104.txt",
+      "width": 3072,
+      "height": 2048,
+      "instance_count": 3,
+      "image_sha256": "6a611e2148819e5085d2156709fbb3ed534a35b544f1aae3716dce6b1bc479b6",
+      "label_sha256": "20d6e9eea73ecf42ba189b66d3d65e5070a47ebdb2939c5d067f2a863eb7287c"
+    }
+  ]
+}
